@@ -1,2 +1,1 @@
-# tindog
-WebDev Project - Angela Yu
+TinDog Starting Files
